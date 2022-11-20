@@ -1,4 +1,4 @@
-# "If you goal is to learn about wheels, then there is nothing wrong with reinventing the wheel" - [Javidx9's friend Jack](https://youtu.be/HXSuNxpCzdM?t=155)
+# "If your goal is to learn about wheels, then there is nothing wrong with reinventing the wheel" - [Javidx9's friend Jack](https://youtu.be/HXSuNxpCzdM?t=155)
 ### This is a quote that I may have taken to heart a bit too much.
 
 ### Many of my smaller projects and be found on [Replit](https://replit.com/@Magicalbat?tab=repls)
