@@ -35,6 +35,7 @@ More far off goals would be to have a WASM port and an editor.
 - General purpose pdf and note taking app
 
 ## Programmers I like
+- [Dan Shiffman](https://thecodingtrain.com/) (The Coding Train)
 - [Allen Webster](https://mr4th.com/index.html) (Mr. 4th)
 - [Ryan Fleury](https://www.rfleury.com/)
 - [Javidx9](https://www.youtube.com/@javidx9) (One Lone Coder)
