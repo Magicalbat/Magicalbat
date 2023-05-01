@@ -1,21 +1,16 @@
-# "If your goal is to learn about wheels, then there is nothing wrong with reinventing the wheel" - [Javidx9's friend Jack](https://youtu.be/HXSuNxpCzdM?t=155)
-### This is a quote that I may have taken to heart a bit too much.
+# Magicalbat
 
 ### Many of my smaller projects and be found on [Replit](https://replit.com/@Magicalbat?tab=repls)
 
-## Current project - [Animated Presentation](https://github.com/Magicalbat/Animated-Presentation)
-Inspired by [Mr 4th Programming](https://www.youtube.com/c/Mr4thProgramming/featured), I am currently working on an application for creating animated presentations. 
-My goal is to learn about low level programming.
-My current vision for the application is for it to present a presentation defined in a human-readable file format(similar to JSON).
-It will look similar to something like Google Slides or Powerpoint, but will have a focus on *animations* and *extendibility* through a scripting language.
-More far off goals would be to have a WASM port and an editor.
+## Current project - [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer)
+This is mainly to learn about how multi-precision numbers work.
 
 ## Notible accomplishments
+- [mg-libraries](https://github.com/Magicalbat/mg-libraries), STB-style single-header libraries for C
 - [Neural Network](https://replit.com/@Magicalbat/Neural-Network#main.py) made from scratch (only using [numpy](https://numpy.org/))
-- [Many game jams](https://magicalbat.itch.io/) using Unity, Godot, and Pygame. [Source code](https://github.com/Magicalbat/Pygame-Projects) for pygame games.
-- TI 84 Plus CE applications(TODO: Add video here) using the [CE Programming Toolchain](https://github.com/CE-Programming/toolchain)
+- [Many game jams](https://magicalbat.itch.io/) using Unity, Godot, and Pygame. [Source code](https://github.com/Magicalbat/Pygame-Projects) for pygame games
 
-## Programming languages I know well
+## Programming languages I know
 - C
 - C++
 - Python
@@ -31,7 +26,6 @@ More far off goals would be to have a WASM port and an editor.
 - Neural Networks in scratch in C
 - Convolutional Neural Networks and Recurrent Neural Networks
 - Note taking app specifically for math with ML features
-- Make my own [stb](https://github.com/nothings/stb) style single-header libraries
 - General purpose pdf and note taking app
 
 ## Programmers I like
