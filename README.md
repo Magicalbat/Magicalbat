@@ -1,32 +1,25 @@
 # Magicalbat
 
-### Many of my smaller projects and be found on [Replit](https://replit.com/@Magicalbat?tab=repls)
-
-## Current project - [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer)
-This is mainly to learn about how multi-precision numbers work.
+## Current project - ML stuff from scratch in C (Not on github yet)
 
 ## Notible accomplishments
-- [mg-libraries](https://github.com/Magicalbat/mg-libraries), STB-style single-header libraries for C
-- [Neural Network](https://replit.com/@Magicalbat/Neural-Network#main.py) made from scratch (only using [numpy](https://numpy.org/))
+- [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer/tree/bigfloat) ([Video](https://www.youtube.com/watch?v=YvSiJ3nrMiQ)) - An application for rendering fractal zooms. It uses custom multi-precision numbers. 
+- [Animated Presentation](https://github.com/Magicalbat/Animated-Presentation) - An application for making animated presentations. Runs on Linux, Windows, and the web.
+- [mg-libraries](https://github.com/Magicalbat/mg-libraries) - STB-style single-header libraries for C
+  - [mg_arena.h](https://github.com/Magicalbat/mg-libraries/blob/main/mg_arena.h) - A library for creating memory arenas. 
 - [Many game jams](https://magicalbat.itch.io/) using Unity, Godot, and Pygame. [Source code](https://github.com/Magicalbat/Pygame-Projects) for pygame games
 
-## Programming languages I know
+## Programming languages I know well
 - C
 - C++
 - Python
 - JavaScript (mainly canvas games)
 
-## Programming languages I "know"
+## Programming languages I know
 - Java
 - C#
 - Lua
 - GDScript
-
-## Future project ideas
-- Neural Networks in scratch in C
-- Convolutional Neural Networks and Recurrent Neural Networks
-- Note taking app specifically for math with ML features
-- General purpose pdf and note taking app
 
 ## Programmers I like
 - [Dan Shiffman](https://thecodingtrain.com/) (The Coding Train)
