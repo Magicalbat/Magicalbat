@@ -6,7 +6,8 @@
 - [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer/tree/bigfloat) ([Video](https://www.youtube.com/watch?v=YvSiJ3nrMiQ)) - An application for rendering fractal zooms. It uses custom multi-precision numbers. 
 - [Animated Presentation](https://github.com/Magicalbat/Animated-Presentation) - An application for making animated presentations. Runs on Linux, Windows, and the web.
 - [mg-libraries](https://github.com/Magicalbat/mg-libraries) - STB-style single-header libraries for C
-  - [mg_arena.h](https://github.com/Magicalbat/mg-libraries/blob/main/mg_arena.h) - A library for creating memory arenas. 
+  - [mg_arena.h](https://github.com/Magicalbat/mg-libraries/blob/main/mg_arena.h) - A library for creating memory arenas
+  - [mg_plot.h](https://github.com/Magicalbat/mg-libraries/blob/main/mg_plot.h) - A library for making graphs (similar to matplotlib)
 - [Many game jams](https://magicalbat.itch.io/) using Unity, Godot, and Pygame. [Source code](https://github.com/Magicalbat/Pygame-Projects) for pygame games
 
 ## Programming languages I know well
