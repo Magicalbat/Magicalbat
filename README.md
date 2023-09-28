@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current project - ML stuff from scratch in C (Not on github yet)
+## Current project - [TurboSpork](https://github.com/Magicalbat/TurboSpork) (Machine learning in C)
 
 ## Notible accomplishments
 - [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer/tree/bigfloat) ([Video](https://www.youtube.com/watch?v=YvSiJ3nrMiQ)) - An application for rendering fractal zooms. It uses custom multi-precision numbers. 
