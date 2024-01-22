@@ -1,8 +1,8 @@
 # Magicalbat
 
-## Current project - Researching rendering stuff (GPU line rendering and multi-channel SDFs) 
+## Current Project - Researching rendering stuff (GPU line rendering and multi-channel SDFs) 
 
-## Notible accomplishments
+## Notible Projects
 - [TurboSpork](https://github.com/Magicalbat/TurboSpork) - A machine learning library written from scratch in C.
 - [Fractal Renderer](https://github.com/Magicalbat/Fractal-Renderer/tree/bigfloat) ([Video](https://www.youtube.com/watch?v=YvSiJ3nrMiQ)) - An application for rendering fractal zooms. It uses custom multi-precision numbers. 
 - [Animated Presentation](https://github.com/Magicalbat/Animated-Presentation) - An application for making animated presentations. Runs on Linux, Windows, and the web.
