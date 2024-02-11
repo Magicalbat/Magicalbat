@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current Project - Researching rendering stuff (GPU line rendering and multi-channel SDFs) 
+## Current Project - [Handwritten Stroke Rendering](https://github.com/Magicalbat/Handwritten-Stroke-Rendering)
 
 ## Notible Projects
 - [TurboSpork](https://github.com/Magicalbat/TurboSpork) - A machine learning library written from scratch in C.
