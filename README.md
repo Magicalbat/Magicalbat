@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current Project - [TurboSpork (V2)](https://github.com/Magicalbat/TurboSpork) Another machine learning library, but with autograd this time.
+## Current Project - [bvi](https://github.com/Magicalbat/bvi) A text editor "Based on VI"
 
 ## Notible Projects
 - [Handwritten Stroke Rendering](https://github.com/Magicalbat/Handwritten-Stroke-Rendering) - Handwritten stroke rendering in OpenGL and C
