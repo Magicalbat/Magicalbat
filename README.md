@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current Project - [bvi](https://github.com/Magicalbat/bvi) A text editor "Based on VI"
+## Current Project - To Be Decided
 
 ## Notible Projects
 - [Handwritten Stroke Rendering](https://github.com/Magicalbat/Handwritten-Stroke-Rendering) - Handwritten stroke rendering in OpenGL and C
