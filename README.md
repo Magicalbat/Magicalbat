@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current Project - To Be Decided
+## Current Project - [Octopus](https://github.com/Magicalbat/Octopus) (A note taking and PDF markup application)
 
 ## Notible Projects
 - [Handwritten Stroke Rendering](https://github.com/Magicalbat/Handwritten-Stroke-Rendering) - Handwritten stroke rendering in OpenGL and C
