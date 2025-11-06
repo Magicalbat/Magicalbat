@@ -1,6 +1,6 @@
 # Magicalbat
 
-## Current Project - [Octopus](https://github.com/Magicalbat/Octopus) (A note taking and PDF markup application)
+## Current Project - [Neoscim](https://github.com/Magicalbat/nscim) (A spreadsheet calculator with vim-like motions)
 
 ## Notible Projects
 - [Handwritten Stroke Rendering](https://github.com/Magicalbat/Handwritten-Stroke-Rendering) - Handwritten stroke rendering in OpenGL and C
