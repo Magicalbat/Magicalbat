@@ -12,17 +12,13 @@
   - [mg_plot.h](https://github.com/Magicalbat/mg-libraries/blob/main/mg_plot.h) - A library for making graphs (similar to matplotlib)
 - [Many game jams](https://magicalbat.itch.io/) using Unity, Godot, and Pygame. [Source code](https://github.com/Magicalbat/Pygame-Projects) for pygame games
 
-## Programming languages I know well
+## Programming languages I know
 - C
 - C++
 - Python
-- JavaScript (mainly canvas games)
-
-## Programming languages I know
+- JavaScript
 - Java
-- C#
 - Lua
-- GDScript
 
 ## Programmers I like
 - [Dan Shiffman](https://thecodingtrain.com/) (The Coding Train)
